@@ -2,6 +2,7 @@
 
 ## SE 441: Continuous Delivery and DevOps
 ## Project: Week 2
+## Week 3 changes: To show successful build on Travis CI.
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
